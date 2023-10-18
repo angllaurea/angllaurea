@@ -2,7 +2,8 @@
 - 👀 I’m interested in codes and books.
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: email@laureaanggie67@gmail.com
+- 📫 How to reach me:
+- email: laureaanggie67@gmail.com
   
 
 <!---
